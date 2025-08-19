@@ -71,7 +71,7 @@ Here are some of the key projects I've worked on.
       </ul>
       <p><strong>Technologies:</strong> <code>Flutter</code> <code>BLoC</code> <code>Isar</code> <code>Firebase</code> <code>REST APIs</code></p>
       <p>
-        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a> | <a href="[رابط التطبيق على App Store]">▶️ App Store</a>
+        <a href="[https://play.google.com/store/apps/details?id=net.gofootball.gosports]">▶️ Google Play</a> | <a href="[https://apps.apple.com/eg/app/gosports-network/id1609797473]">▶️ App Store</a>
       </p>
     </td>
     <td width="50%">
@@ -84,7 +84,7 @@ Here are some of the key projects I've worked on.
       </ul>
       <p><strong>Technologies:</strong> <code>Flutter</code> <code>Google Maps API</code> <code>Firebase</code> <code>GetX</code></p>
       <p>
-        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a>
+        <a href="[https://play.google.com/store/apps/details?id=com.tawssela.customer]">▶️ Google Play</a> | <a href="[https://apps.apple.com/eg/app/%D9%8A%D9%84%D8%A7-%D8%AA%D9%88%D8%B5%D9%8A%D9%84%D9%87/id6740780388]">▶️ App Store</a>
       </p>
     </td>
   </tr>
@@ -98,7 +98,7 @@ Here are some of the key projects I've worked on.
       </ul>
       <p><strong>Technologies:</strong> <code>Flutter</code> <code>Firebase</code> <code>BLoC</code></p>
       <p>
-        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a>
+        <a href="[https://play.google.com/store/apps/details?id=com.daleel.altalib]">▶️ Google Play</a> | <a href="[https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8/id6736351602]">▶️ App Store</a>
       </p>
     </td>
     <td width="50%">
@@ -110,18 +110,31 @@ Here are some of the key projects I've worked on.
       </ul>
       <p><strong>Technologies:</strong> <code>Flutter</code> <code>Firebase</code></p>
       <p>
-        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a>
+        <a href="[https://play.google.com/store/apps/details?id=com.manaber.manaber]">▶️ Google Play</a>
       </p>
     </td>
   </tr>
 </table>
 
 ---
+### 📂 More Projects
+
+Here are other applications I have contributed to, including maintenance and feature development.
+
+| Project Name | Description | Links |
+| :--- | :--- | :--- |
+| **Ghena Alshaam** | An e-commerce app for ordering meat products with features ensuring quality and satisfaction. | [App Store]((https://apps.apple.com/us/app/%D8%BA%D9%86%D9%89-%D8%A7%D9%84%D8%B4%D8%A7%D9%85/id1475021763)) / [Google Play](https://play.google.com/store/apps/details?id=com.Khattab.GhenaElsham) |
+| **Nozoluna** | A user-friendly booking app for services and accommodations with multi-language and secure payment support. | [App Store](https://apps.apple.com/eg/app/nozoluna/id6474563014) / [Google Play](https://play.google.com/store/apps/details?id=com.khatab.nozoluna) |
+| **إصلاح (Islah)** | A location-based app connecting users with nearby vehicle repair and maintenance services using Google Maps. | [App Store](https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A5%D8%B5%D9%84%D8%A7%D8%AD/id1595445575) / [Google Play](https://play.google.com/store/apps/details?id=com.kw4s.esla7) |
+| **وشحم ولحم** | An efficient platform for customers to select, order, and receive meat products. | [Google Play](https://play.google.com/store/apps/details?id=com.khatabweb.fleshfat) |
+| **Mazad - مزاد** | A bidding app where users can sell items or bid on items listed by others, with the highest bidder winning. | [App Store](https://apps.apple.com/sa/app/%D9%85%D8%B2%D8%A7%D8%AF-mazad/id1512890468) |
+
+---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedAlkinay&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="mohammedAlkinay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malknany&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="malknany's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedAlkinay&layout=compact&langs_count=6&theme=dark" alt="mohammedAlkinay's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malknany&layout=compact&langs_count=6&theme=dark" alt="malknany's top languages" />
 </div>
