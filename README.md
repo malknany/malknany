@@ -15,33 +15,113 @@
 
 <!-- ![3ZRpdltY](https://user-images.githubusercontent.com/73651294/221671706-b870e88d-e251-4589-bd06-5840b1939e50.gif) -->
 
+<!-- Header with Social Links -->
+<div align="center">
+  <h1>
+    Mohamed Alkinany
+  </h1>
+  <p>
+    <strong>Flutter Developer specializing in building scalable, high-performance ERP and On-Demand service applications.</strong>
+  </p>
+  <a href="mailto:malknany98@gmail.com"><img src="https://img.shields.io/badge/Email-malknany98@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammedalkinay/"><img src="https://img.shields.io/badge/LinkedIn-mohammedAlkinay-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+</div>
 
+---
 
-<h1 align="center">Hi 👋, I'm MOHMMED ALKINANY</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+### 👋 About Me
 
-![download (4)](https://user-images.githubusercontent.com/73651294/221680418-9dc9100a-9eae-4323-ae2b-f335a37f1992.gif)
+Hello! I'm Mohamed, a passionate Flutter Developer with two years of solid experience in creating robust, cross-platform mobile applications. I thrive on solving complex problems and have successfully delivered apps in diverse sectors, including **on-demand delivery (like Uber/inDriver)**, **e-commerce**, and large-scale **ERP systems**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/malknany](https://github.com/malknany)
+My focus is on writing clean, scalable code and building architectures (like MVVM and BLoC) that stand the test of time. I am proficient in the entire development lifecycle, from API integration and state management to CI/CD pipelines and publishing on the App Store and Google Play.
 
-- 💬 Ask me about **mobile app ,video editing .**
+I am driven by the challenge of turning complex business requirements into smooth, intuitive user experiences.
 
-- 📫 How to reach me **malknany98@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am funny**
+### 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-al-kanani-8213321b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-al-kanani-8213321b2/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007369508856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007369508856" height="30" width="40" /></a>
-<a href="https://instagram.com/m.alkinany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.alkinany" height="30" width="40" /></a>
-</p>
+| Category              | Skills                                                                                           |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| **Languages & Frameworks** | `Dart` `Flutter`                                                                                 |
+| **State Management**  | `BLoC` `GetX` `Provider`                                                                         |
+| **Architecture**      | `MVVM` `MVC` `Clean Architecture`                                                                |
+| **Local Storage**     | `Isar` `Hive` `Shared Preferences` `SQLite`                                                      |
+| **Backend & Cloud**   | `Firebase (Auth, Firestore, Realtime DB, Cloud Messaging, Crashlytics, App Distribution)`        |
+| **APIs & Data**       | `RESTful API` `JSON` `GraphQL`                                                                   |
+| **Mapping & Location**| `Google Maps API (Markers, Polylines, Geolocation)`                                              |
+| **Version Control**   | `Git` `GitHub` `GitLab` `SourceTree`                                                             |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">  </a> </p>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malknany&show_icons=true&theme=radical)
+### ✨ Featured Projects
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malknany&layout=compact&theme=green-blue)
+Here are some of the key projects I've worked on.
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>GoSports - ERP for Sports Academies</h3>
+      <p>A next-generation, cross-platform ERP system for managing all operations of sports academies, focusing on scalability and performance.</p>
+      <ul>
+        <li><strong>Role:</strong> Developed core features for academy management, player enrollment, scheduling, and attendance.</li>
+        <li>Engineered the complex billing and installment payment system.</li>
+        <li>Implemented a local database solution using <strong>Isar</strong> for robust offline capabilities.</li>
+      </ul>
+      <p><strong>Technologies:</strong> <code>Flutter</code> <code>BLoC</code> <code>Isar</code> <code>Firebase</code> <code>REST APIs</code></p>
+      <p>
+        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a> | <a href="[رابط التطبيق على App Store]">▶️ App Store</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Yalla Tawsela - On-Demand Services</h3>
+      <p>An on-demand application similar to inDriver and Uber, allowing users in Egypt to book rides and request delivery services.</p>
+      <ul>
+        <li><strong>Role:</strong> Implemented core <strong>Google Maps</strong> features, including live location tracking and route polylines.</li>
+        <li>Developed the real-time ride request and driver-rider matching logic.</li>
+        <li>Built the in-app chat and notifications using <strong>Firebase Realtime DB</strong>.</li>
+      </ul>
+      <p><strong>Technologies:</strong> <code>Flutter</code> <code>Google Maps API</code> <code>Firebase</code> <code>GetX</code></p>
+      <p>
+        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>The Dalil Al Talib - E-commerce & Ads</h3>
+      <p>A classified ads platform similar to Haraj, where users can buy and sell products and services across various categories.</p>
+      <ul>
+        <li><strong>Role:</strong> Developed the user interface for browsing and posting ads.</li>
+        <li>Integrated the chat functionality for buyer-seller communication.</li>
+      </ul>
+      <p><strong>Technologies:</strong> <code>Flutter</code> <code>Firebase</code> <code>BLoC</code></p>
+      <p>
+        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a>
+      </p>
+    </td>
+    <td width="50%">
+       <h3>Manaber - Freelance Project</h3>
+      <p>An application to facilitate interaction between a Physical Therapy Center for Disabled Children and its sponsors.</p>
+      <ul>
+        <li><strong>Role:</strong> Full-stack development, from UI to data management.</li>
+        <li>Designed a system to record user data and periodic visits for medical tracking.</li>
+      </ul>
+      <p><strong>Technologies:</strong> <code>Flutter</code> <code>Firebase</code></p>
+      <p>
+        <a href="[رابط التطبيق على Google Play]">▶️ Google Play</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedAlkinay&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="mohammedAlkinay's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedAlkinay&layout=compact&langs_count=6&theme=dark" alt="mohammedAlkinay's top languages" />
+</div>
